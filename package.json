@@ -1,13 +1,11 @@
 {
   "name": "gulp-yaml-data",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Gulp plugin to import YAML file as data and append to file property of wanted name",
   "author": "Otto Rask <ojrask@gmail.com> (https://www.ottorask.com)",
   "repository": "https://github.com/rask/gulp-yaml-data",
   "license": "MIT",
-
   "main": "index.js",
-
   "dependencies": {
     "gulp-util": "^3.0.7",
     "js-yaml": "^3.6.1",
